@@ -18,7 +18,7 @@ Consider the 3 x 4 matrix below:
 <img src="https://latex.codecogs.com/svg.latex?\begin{bmatrix}&space;2&space;&&space;3&space;&&space;4&space;&&space;1\\&space;5&space;&&space;1&space;&&space;2&space;&&space;4\\&space;4&space;&&space;5&space;&&space;3&space;&&space;4&space;\end{bmatrix}" title="\begin{bmatrix} 2 & 3 & 4 & 1\\ 5 & 1 & 2 & 4\\ 4 & 5 & 3 & 4 \end{bmatrix}"/>
 </p>
 
-The best score we can make for this matrix is 13 by choosing rows 2, 3, 3, 3 from left-to-right.
+The best score we can make for this matrix is 13 by choosing rows 2, 3, 3, 3 (3 + 3 + 4 + 3)from left-to-right.
 
 ---
 
