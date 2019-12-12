@@ -34,4 +34,4 @@ The program contains code for both a memoized solution and an iterative solution
 
 ---
 
-The original recursion without the use of dynamic program results in an <img src="https://latex.codecogs.com/svg.latex?\Theta&space;(n^m)" title="\Theta (n^m)" /> algorithm, however saving sub results actually reduces the algorithm to a poly-time complexity of <img src="https://latex.codecogs.com/svg.latex?\Theta&space;(n^3m)" title="\Theta (n^3m)"/>. Feel free to message me on how these complexities are derived. This program certainly shows the power of dynamic programming!
+The original recursion without the use of dynamic program results in an <img src="https://latex.codecogs.com/svg.latex?\Theta&space;(n^m)" title="\Theta (n^m)" /> algorithm, however saving sub results actually reduces the algorithm to a poly-time complexity of <img src="https://latex.codecogs.com/svg.latex?\Theta&space;(n^3m)" title="\Theta (n^3m)"/>. Feel free to message me on how these complexities are derived.
